@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Hace un año, debí empezar a invertir en maletas"
 date: "2018-08-08"
 permalink: "/_posts/2018-08-08-invertir-en-maletas"
