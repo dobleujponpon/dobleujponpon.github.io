@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: "Cosas que quiero. ¡Ayuda!
 date: "2018-08-11"
 category:
  - things
 author: J
+
 ---
 
 Hay unas cuantas cosas aquí que probablemente no se pudieran pasar a otro apartamento pero quiero que lo que compremos sea útil para otros espacios. 
