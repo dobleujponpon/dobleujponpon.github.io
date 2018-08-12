@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kombusplosión"
+title: "Kombuchplosión"
 date: "2018-08-11"
 author: J
 permalink: _posts/2018-08-11-kombucha-explosion
