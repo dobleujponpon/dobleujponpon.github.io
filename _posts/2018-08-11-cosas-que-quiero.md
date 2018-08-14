@@ -3,6 +3,7 @@
 layout: post
 title: "Cosas que quiero. ¡Ayuda!"
 date: "2018-08-11"
+permalink: _posts/
 category:
  - things
 author: J
