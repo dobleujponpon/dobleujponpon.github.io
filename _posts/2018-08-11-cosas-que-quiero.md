@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Cosas que quiero. ¡Ayuda!
+title: "Cosas que quiero. ¡Ayuda!"
 date: "2018-08-11"
 category:
  - things
