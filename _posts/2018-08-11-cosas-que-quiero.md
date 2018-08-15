@@ -1,9 +1,8 @@
 ---
-
 layout: post
 title: "Cosas que quiero. ¡Ayuda!"
 date: "2018-08-11"
-permalink: _posts/2018-08-11-cosas-que-quiero.md
+permalink: "_posts/2018-08-11-cosas-que-quiero.md"
 category:
  - things
 author: J
