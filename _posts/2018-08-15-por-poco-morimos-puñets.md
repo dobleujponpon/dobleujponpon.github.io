@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Por poco morimos puñets"
 permalink: "_posts/2018-08-15-por-poco-morimos-puñets"
 author: DobleU
