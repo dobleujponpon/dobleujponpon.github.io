@@ -3,7 +3,7 @@
 layout: post
 title: "Cosas que quiero. ¡Ayuda!"
 date: "2018-08-11"
-permalink: _posts/
+permalink: _posts/2018-08-11-cosas-que-quiero.md
 category:
  - things
 author: J
@@ -14,6 +14,7 @@ Hay unas cuantas cosas aquí que probablemente no se pudieran pasar a otro apart
 
 1. Cortina con el cable
 	Tal vez así: [cortina con cable de metal que cubre todo el cuarto](https://www.ikea.com/us/en/catalog/products/60075295/)
+	
 	O así: [cortina que cubre 6 pies y medios)[https://www.ikea.com/us/en/catalog/products/ART/50353320/]
 
 2. El [bulto](https://www.amazon.com/dp/B01893PW5W/?coliid=I1069EX5P7CQQZ&colid=3GIHKTCLEHSRT&psc=0&ref_=lv_ov_lig_dp_it) que no te encanta pero ya el otro está sufrido

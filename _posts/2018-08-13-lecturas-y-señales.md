@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lecturas y señales"
+permalink: _posts/2018-08-13-lecturas-y-señales
 author: J
 date: 2018-08-13
 ---
