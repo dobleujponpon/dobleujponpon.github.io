@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "En la baja#2: Shii yu!"
-permalink: "_posts/2018-08-13-En-la-baja#2:-Shii-yu!"
+permalink: _posts/2018-08-13-En-la-baja#2:-Shii-yu!
 author: DobleU
 date: 2018-08-13
 ---
