@@ -12,7 +12,9 @@ Creo que hoy me entregan el carro finalmente. Se me fueron los planes un poco a 
 
 ***
 
-Estuve traduciendo con música. Es raro que no me distrae, casi como si fueran dos partes de mi celebro. Entonces escuché una canción de Angel Olsen que no conocía. <iframe width="560" height="315" src="https://www.youtube.com/embed/rt5lbTYscy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+Estuve traduciendo con música. Es raro que no me distrae, casi como si fueran dos partes de mi celebro. Entonces escuché una canción de Angel Olsen que no conocía.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rt5lbTYscy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 She sounds sad, pero no creo que sea el caso. Hay algo fuerte en ella, los ojos abiertos y una sonrisa precavida. Poca duda de por qué me gusta su música. Dice "I used to think I was the only one, but I learned quite a few things instead. I learned that know is really the only one". Es sobre alguien que ya se ha tirado de pecho, que ha caminado más que la persona a la que le habla y ahora la experiencia se combina con la claridad que viene de tomar decisiones informadas. Aunque sean arriesgadas. 
 
