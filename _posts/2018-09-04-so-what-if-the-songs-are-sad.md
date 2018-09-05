@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Tenderness"
 date: 2018-09-03
 author: J
