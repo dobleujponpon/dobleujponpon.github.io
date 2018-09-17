@@ -4,7 +4,7 @@ layout: post
 title: "Poco que decir"
 date: 2018-09-17
 author: J
-permalink: _posts/2018-09-17-a-veces-llega-así.md
+permalink: _posts/2018-09-17-a-veces-llega-asi.md
 
 ---
 
